@@ -5,7 +5,7 @@ on:
 
 jobs:
   CloneRepo:
-    resources:
+    resources: 
       instance-type: C3
     outputs:
      stylegan2:
